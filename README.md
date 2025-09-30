@@ -3,8 +3,6 @@
 Generate optimized **titles and tags for Adobe Stock** and other microstock sites.  
 This tool works with **Google Gemini API** to suggest high-quality, SEO-friendly tags and titles based on your input (title, keywords, or uploaded image).
 
-👉 [Download the latest release](https://github.com/rainylvn/adobe-stock-title-and-tags-generator/releases)
-
 ---
 
 ## ✨ Features
@@ -13,13 +11,6 @@ This tool works with **Google Gemini API** to suggest high-quality, SEO-friendly
 - Copy all tags at once, or select only the ones you need.  
 - Simple **one-page HTML tool** — no installation required.  
 - Open-source and free to use.  
-
----
-
-## 🚀 Usage
-1. [Download the latest release](https://github.com/rainylvn/adobe-stock-title-and-tags-generator/releases) and extract it.  
-2. Open the `index.html` file in your browser.  
-3. Start generating titles and tags instantly.  
 
 ---
 
@@ -34,7 +25,7 @@ This tool requires a **Gemini API key** to work.
    const apiKey = "ENTER_YOUR_GEMINI_API_HERE";
 
 4. Replace ENTER_YOUR_GEMINI_API_HERE with your actual Gemini API key.
-5. Save the file and open it in your browser.
+5. Save the file as .html and open it in your browser.
 
 That’s it — you’re ready to go! 🎉
 
