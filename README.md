@@ -18,7 +18,7 @@ This tool works with **Google Gemini API** to suggest high-quality, SEO-friendly
 This tool requires a **Gemini API key** to work.  
 
 1. Create your API key here: [Google AI Studio](https://aistudio.google.com).  
-2. Open the downloaded `index.html` file in a text editor.  
+2. Open the downloaded `.html` file in a text editor.  
 3. Find the section marked:
 
    // --- API KEY SETUP ---
